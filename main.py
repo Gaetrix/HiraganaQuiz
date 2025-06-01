@@ -1,1 +1,2 @@
 print ("what")
+print ("hiragana ")
