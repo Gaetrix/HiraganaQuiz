@@ -43,4 +43,8 @@ if __name__ == "__main__":
     english_output = translate_to_english(hiragana_input)
 
     print("\nHasil Romaji :", romaji_output)
+<<<<<<< HEAD
     print("Terjemahan Inggris:", english_output)
+=======
+    print("English:", english_output)
+>>>>>>> 22857ecb9147e023464056ef7e372214fdaaf519
